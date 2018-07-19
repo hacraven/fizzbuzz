@@ -27,7 +27,7 @@ keep adding 1 till we get to 100
 
     for(var n = 1; n<= 100; n++)
 
-need to check for multiplies of 3 & 5 so need an if statement to test for a condition.  the condition is the n a multiple
+next it needs to check for multiplies of 3 & 5 so need an if statement to test for a condition.  the condition is the n a multiple
 
 need to use the % modulo because if it returns a remainder of 0 then it is divisible
 
@@ -61,7 +61,7 @@ then need to put it in a function so that everything can pass thru it and we can
         
     }
 
-and hopefully this works! you need to make sure that the 3 and 5 is first becasue it will break once the first true statement is found
+and hopefully this works! you need to make sure that the 3 and 5 is first becasue it will break once the first true statement is found.
 
     function fizzbuzz(){
         
@@ -81,9 +81,11 @@ and hopefully this works! you need to make sure that the 3 and 5 is first becasu
         
        
         else {
-        console.log(i);
+        console.log(n);
     }
         
     }
 
+because I put a function on this then I have to call the function for it to work
 
+function()
