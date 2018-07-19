@@ -7,7 +7,7 @@ In order to beef up our skills with [Git](https://git-scm.com/), it is highly re
 - Clone your fork to your local machine: `$ git clone https://github.com/<YOUR_GITHUB_USERNAME>/fizzbuzz.git`
   - The `$` is a common way to indicate that this command should be run in your terminal. Do not include it when typing the command.
 - Change Directory into the newly cloned fizzbuzz project: `$ cd fizzbuzz`
-- Open in the project in your favorite text editor, and edit the `app.js` file!
+- Open the project in your favorite text editor, and edit the `app.js` file!
 - You must open your `index.html` file in Chrome, and use the [Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools/) to see your code running in the Console tab.
   - Remember to refresh the browser whenever you make a change to your codebase.
 
